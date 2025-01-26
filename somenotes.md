@@ -41,7 +41,8 @@ https://blog.csdn.net/mazheng11111111/article/details/139354970?spm=1001.2014.30
 + https://blog.csdn.net/aiyanzielf/article/details/106159391    vscode 环境搭建与测试
 + https://blog.csdn.net/aiyanzielf/article/details/124886079  参数测试，类型测试
 
-+https://developer.aliyun.com/article/1419710     basic concept
++ https://developer.aliyun.com/article/1419710     basic concept
++ https://blog.csdn.net/weixin_38988633/category_9043129.html?spm=1001.2014.3001.5482  参数化测试
 
 源码分析：
 + https://www.cnblogs.com/dachengxu/archive/2012/12/07/2807898.html
